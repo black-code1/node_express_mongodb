@@ -11,5 +11,8 @@
     "app"
   ],
   "author": "black-code",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "casual": "^1.6.2"
+  }
 }
