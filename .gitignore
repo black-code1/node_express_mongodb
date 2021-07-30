@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/ExpressJS/FirstEJSApp/node_modules
+/ExpressJS/FirstExpressApp/node_modules
+/ExpressJS/postrequest/node_modules
+/ExpressJS/RoutesParameters/node_modules
+/MovieApp/node_modules
